@@ -1,5 +1,3 @@
-About
-utilized Vantage IBM Demo TIME_SERIES_MONTHLY function to analyze a 30 day moving average which tells me the stock movement and what stocks will be brought and sold
 
 
 [ANALYSIS]
